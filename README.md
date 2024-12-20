@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kovalevskaya Larisa
+- 👋 Hi
 - 👀 QA Engineer
 
 
