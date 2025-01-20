@@ -21,7 +21,7 @@
 - Задание по SQL: [SQL](https://disk.yandex.ru/d/v-p-kcirh6cYFQ)
 - Задание API метод POST: [чек-лист](https://docs.google.com/spreadsheets/d/1huPsmm3nfA-uRjkFFbf13lz3sv7qLISzb2jGmOVKfzg/edit?usp=sharing)
 
-  ## Сертификаты
+## Сертификаты
 
   - [Тестирование](https://disk.yandex.ru/i/BAMgeTg4i4oRAQ)
   - [SQL](https://disk.yandex.ru/i/uuK3PVPq4PqwRQ)
