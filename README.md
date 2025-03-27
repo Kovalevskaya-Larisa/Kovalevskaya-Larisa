@@ -28,6 +28,7 @@
   - [Веб вёрстка](https://disk.yandex.ru/i/gbCh4dkJ3ED0xQ)
   - [Автотестирование на JAVA](https://disk.yandex.ru/d/OtBh31i14krKTg)
   - [Postman](https://disk.yandex.ru/d/_f_8nGBUyP_RVA)
+  - [Postman](https://stepik.org/cert/2792683)
   - [Построение фреймворка автоматизации на Java](https://disk.yandex.ru/i/t0fjLgVz7xTIhg)
 
   
